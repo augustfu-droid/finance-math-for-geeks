@@ -1,0 +1,24 @@
+# 构建中间产物
+book.html
+*.partial.*.md
+toc_items.json
+toc_pages.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# 临时/验证渲染
+_verify_*.png
+_check_*.png
+_p1fig_*.png
+_part5_plot_blocks.json
+
+# 系统
+.DS_Store
+Thumbs.db
