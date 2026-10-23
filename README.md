@@ -1,3 +1,11 @@
+[![YouTube English Channel](https://img.shields.io/badge/YouTube-InkStar%20Quant%20(EN)-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@InkStarQuant)
+[![YouTube Chinese Channel](https://img.shields.io/badge/YouTube-%E5%A2%A8%E7%82%B9%E6%88%9F%20%7C%20%E5%A4%A7%E9%98%9F%E9%95%BF%20(CN)-C8483B?style=for-the-badge&logo=youtube)](https://www.youtube.com/@InkIntoStarsCN)
+[![Ink into Stars ML 108](https://img.shields.io/badge/Open%20Book-%E5%A2%A8%E7%82%B9%E6%88%9F%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0108%E8%AE%B2-E3A857?style=for-the-badge&logo=github)](https://github.com/augustfu-droid/ink-into-stars-ml-108)
+
+> 🎬 **作者官方视频频道（4K 手算推导与深度投研拆表）**：[YouTube 中文频道 (@InkIntoStarsCN)](https://www.youtube.com/@InkIntoStarsCN) ｜ [YouTube English (@InkStarQuant)](https://www.youtube.com/@InkStarQuant) ｜ 📖 [《墨点成星：机器学习108讲》全集开源书稿](https://github.com/augustfu-droid/ink-into-stars-ml-108)
+
+---
+
 # 代码驱动的金融数学与 AI 风控实战
 
 > 副标题：从变化率到资产定价 · 给极客的金融数学自学手册
